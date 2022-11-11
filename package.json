@@ -1,0 +1,25 @@
+{
+  "name": "backend-developer-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonIndra95/Backend-Developer-Assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonIndra95/Backend-Developer-Assessment/issues"
+  },
+  "homepage": "https://github.com/DonIndra95/Backend-Developer-Assessment#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0",
+    "mongoose": "^6.7.2"
+  }
+}
